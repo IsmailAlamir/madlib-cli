@@ -3,7 +3,7 @@
 Author: Ismail Alamir
 ### Setup
 ### PR for lab 04
-[PR for lab 04](https://github.com/IsmailAlamir/madlib-cli/pull/1)
+[PR for lab 04](https://github.com/IsmailAlamir/madlib-cli/pull/2)
 
 How to initialize/run your application
 ```
